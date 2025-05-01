@@ -21,7 +21,7 @@ h1{
 #navbar{
     display: flex;
     justify-content: space-between;
-    border: 2px solid black;
+    border: 2px solid rgb(62, 90, 183);
     font-size: 20px;
     position: fixed;
     padding: 8px;
