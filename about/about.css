@@ -15,9 +15,9 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
-h1{
+ h1{
     text-align: center;
-}
+} 
 #navbar{
     display: flex;
     justify-content: space-between;
@@ -30,13 +30,7 @@ h1{
     z-index: 2;
     top: 0;
 }
-.nbox1 h1{
-    margin: 0;
-    font-size: 20px;
-    padding: 0;
 
-
-}
 #navbar a,#navbar i{
     color: black;
     margin: 20px;
@@ -46,6 +40,15 @@ h1{
 #nhome{
     color: rgb(119, 196, 229);
 }
+
+.nbox1 h1{
+    margin: 0;
+    font-size: 20px;
+    padding: 0;
+
+
+}
+
 p{
     padding: 32px;
 }
