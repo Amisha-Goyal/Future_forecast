@@ -10,18 +10,18 @@ body{
 #navbar{
     display: flex;
     justify-content: space-between;
-    border: 3px solid rgb(21, 11, 169);
+    border: 3px solid rgb(5, 4, 10);
     font-size: 30px;
     position: fixed;
-    padding: 9px;
+    padding: 8px;
     width: 100%;
-    background-color:rgb(174, 174, 174);
+    background-color:rgb(16, 96, 122);
     z-index: 2;
     top: 0;
 }
 .nbox1 h1{
     margin: 0;
-    font-size: 20px;
+    font-size: 22px;
     padding: 0;
 
 
@@ -33,7 +33,7 @@ body{
     /* margin-top: 30px; */
 }
 #nhome{
-    color: yellow;
+    color: rgb(100, 192, 70);
 }
 
 /* Second Page */
@@ -51,7 +51,7 @@ body{
     margin-bottom: 200px;
 }
 .sbox1{
-    width: 50%;
+    width: 52%;
 }
 .sget h5{
     font-size: 20px;
