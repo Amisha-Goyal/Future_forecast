@@ -30,13 +30,7 @@ body{
     z-index: 2;
     top: 0;
 }
-.nbox1 h1{
-    margin: 0;
-    font-size: 20px;
-    padding: 0;
 
-
-}
 #navbar a,#navbar i{
     color: black;
     margin: 20px;
@@ -46,6 +40,15 @@ body{
 #nhome{
     color: rgb(119, 196, 229);
 }
+
+.nbox1 h1{
+    margin: 0;
+    font-size: 20px;
+    padding: 0;
+
+
+}
+
 p{
     padding: 32px;
 }
